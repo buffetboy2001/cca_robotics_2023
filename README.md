@@ -41,21 +41,21 @@ Unit 6: Gears
 - Transmitting Rotation (pg 12)
 - Changing the angle of rotation (pg 24)
 
-Unit b: Oscillating (pg 34)
+Unit 7: Oscillating (pg 34)
 
-Unit a: Reciprocating (pg 28)
+Unit 8: Reciprocating (pg 28)
 
-Unit y: Using turntables (pg 50)
+Unit 9: Using turntables (pg 50)
 
-Unit c: Lifting Platforms (pg 104)
+Unit 10: Lifting Platforms (pg 104)
 
-Unit 5: (3 week unit)
+Unit 11: (3 week unit)
 
 - Full lego build
 - Anything from the lego set
 - What devices did you notice?
 
-Big Project: The Claw
+Year-end Project: The Claw
 
 - Build a claw that can drop 50 cm and pick up an object (lego piece)
 - Bonus: pick up/reject based on color
