@@ -55,15 +55,21 @@ Unit 11: (3 week unit)
 - Anything from the lego set
 - What devices did you notice?
 
-Year-end Project: The Claw
+Year-end Project 1: The Claw
 
 - Build a claw that can drop 50 cm and pick up an object (lego piece)
 - Bonus: pick up/reject based on color
 - Two teams? Not sure.
 
-### Extra Units
+Year-end Project 2: Robotic Driveway Sealer
 
-Unit d: More Rotational Devices (youtube link)
+- Build a robot that can traverse a predefined area and cover that area with "sealer"
+- Design must integrate a sponge roller
+- Design must do a good job covering the area with the roller
+
+### Unscheduled Units
+
+Unit: More Rotational Devices (youtube link)
 
 - Schmidt Coupling
 - CV Joint (90 degree rotation change, constant-velocity)
@@ -71,7 +77,7 @@ Unit d: More Rotational Devices (youtube link)
 - Intermittent mechanism
 - Worm gear (90 degree rotation change, not in lego 51515 set)
 
-Unit e: More Reciprocating Devices (youtube link)
+Unit: More Reciprocating Devices (youtube link)
 
 - Slider Crank Linkage
 - Scotch Yoke
